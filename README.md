@@ -1,6 +1,6 @@
 # CRUD avec Node.js ,Express.js et MySql
-
-## 1) Créer .env :
+## 1) Cloner le repo
+## 2) Créer le fichier .env sur le root directory:
 
 MYSQL_DB=nom de la base de données
 
@@ -12,7 +12,7 @@ MYSQL_HOST=localhost
 
 MYSQL_PORT=8000
 
-## 2) Installer le projet :
+## 3) Installer le projet :
 
     # npm install
     # npm start
