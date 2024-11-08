@@ -12,7 +12,7 @@ MYSQL_HOST=localhost
 
 MYSQL_PORT=8000
 
-## 3) Installer le projet :
+## 3) Lancer le projet :
 
     # npm install
     # npm start
